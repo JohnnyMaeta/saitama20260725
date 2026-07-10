@@ -29,6 +29,7 @@
 #### ✍️ 演習用テキスト資料
 -  <a href="./戯画市の教育方針.md" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>
 -  <a href="./穴炉愚市の教育方針.md" target="_blank">穴炉愚市の教育方針（演習用・架空の資料）</a>
+-  <a href="./魁市の教育方針.md" target="_blank">魁市の教育方針（演習用・架空の資料）</a>
 
 #### ⚙️ フォーム自動分析ワーク用ツール
 -  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMt5JmoVZ1tljDevZ0vQSnoysP5BrqwA9lIFl8RCvjoWVNQ/viewform?usp=publish-editor" target="_blank">Google Workspace Studioでフォームを自動分析（演習用Googleフォーム）</a>
