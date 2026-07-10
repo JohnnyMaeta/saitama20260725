@@ -1,11 +1,13 @@
 # Geminiで爆速授業作り
 ## 7月11日 GiGAGig東北
 
-本日は「生成AIを活用した校務改善と授業デザイン」をテーマにした研修会へお越しいただき、ありがとうございます。
-このページには、本日のワークショップで使用するリンクや資料を順次追加していきます。
+- 指導要領PDFの読み込みと授業プラン生成
+- 評価基準（ルーブリック）作成
+- **[後半] 子供の伴走AI（Gem）作成**
+  - 前半の指導案をAI指示文に活用
+  - 評価基準のGoogleフォーム変換
 
 ---
-
 
 ## 🛠️ ワークショップ・ツール
 
@@ -15,7 +17,6 @@
 - <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
 - <a href="https://johnnymaeta.github.io/kirokukunneo/" target="_blank">スーパー記録くん</a>
 - <a href="https://www.canva.com/design/DAHD5NefcxU/ThspDaTstLGkh0af9-q31Q/edit" target="_blank">Canva</a>
-- <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
 
 ### 2. 資料・リソース（順次追加）
 
