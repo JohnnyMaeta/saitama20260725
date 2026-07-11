@@ -17,7 +17,7 @@
 - <a href="https://script.google.com/macros/s/AKfycbx9ckesaH03gAdnhxVDtIAZHbSB_7l2RPGNuJ2EQ6AgahELB9wsu03nAboq8yFrEnSgNw/exec" target="_blank">スーパー記録くん</a>
 
 
-### 2. 資料・リソース（順次追加）
+### 2. 資料・リソース
 
 #### 📄 研修共通資料・リンク
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387014.htm" target="_blank">小学校学習指導要領</a>
