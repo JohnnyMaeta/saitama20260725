@@ -15,7 +15,7 @@
 - <a href="https://gemini.google.com/" target="_blank">Gemini (Google AI)</a>
 - <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
 - <a href="https://script.google.com/macros/s/AKfycbx9ckesaH03gAdnhxVDtIAZHbSB_7l2RPGNuJ2EQ6AgahELB9wsu03nAboq8yFrEnSgNw/exec" target="_blank">スーパー記録くん</a>
-- <a href="https://www.canva.com/design/DAHD5NefcxU/ThspDaTstLGkh0af9-q31Q/edit" target="_blank">Canva</a>
+
 
 ### 2. 資料・リソース（順次追加）
 
@@ -32,7 +32,7 @@
 -  <a href="./魁市の教育方針.md" target="_blank">魁市の教育方針（演習用・架空の資料）</a>
 
 #### 📺 解説動画
--  <a href="https://youtu.be/c8GpmkdXHCU" target="_blank">【動画】Canvaの付箋をAIで集約（YouTube）<br><img src="https://img.youtube.com/vi/c8GpmkdXHCU/mqdefault.jpg" alt="【動画】Canvaの付箋をAIで集約" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
+
 -  <a href="https://youtu.be/9XHhJMjaMog" target="_blank">【動画】指導案・評価の爆速作成（YouTube）<br><img src="https://img.youtube.com/vi/9XHhJMjaMog/mqdefault.jpg" alt="【動画】指導案・評価の爆速作成" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/eNU-hdRT15k" target="_blank">【動画】評価基準のGoogleフォーム変換（YouTube）<br><img src="https://img.youtube.com/vi/eNU-hdRT15k/mqdefault.jpg" alt="【動画】評価基準のGoogleフォーム変換" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/8sZS3oCD6t4" target="_blank">【動画】Google Workspace Studioでフォームを自動分析（YouTube）<br><img src="https://img.youtube.com/vi/8sZS3oCD6t4/mqdefault.jpg" alt="【動画】Google Workspace Studioでフォームを自動分析" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
