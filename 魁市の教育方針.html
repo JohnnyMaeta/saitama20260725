@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>魁市教育委員会 教育方針（令和8年度）</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@700;800&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --primary:#a3121e;--primary-dark:#6e0c14;--gold:#c9a227;
+    --ink:#111111;--bg:#f4f2ee;--card:#ffffff;--text:#1a1a1a;--muted:#6a6a6a;--border:#e2ddd2;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.9;}
+  .demo-badge{background:#fff3cd;color:#8a6d1a;text-align:center;font-size:.8rem;padding:6px 10px;border-bottom:1px solid #f0d98c;}
+  .site-header{background:var(--ink);color:#f4efe4;background-image:linear-gradient(180deg,#1c1c1c,#0a0a0a);}
+  .header-inner{max-width:900px;margin:0 auto;padding:34px 20px 26px;display:flex;align-items:center;gap:20px;}
+  .emblem{
+    flex:0 0 auto;width:60px;height:60px;border-radius:50%;
+    background:radial-gradient(circle at 35% 30%,#fff,#e9c8c8 40%,var(--primary) 70%);
+    color:var(--primary-dark);display:flex;align-items:center;justify-content:center;
+    font-weight:900;font-size:1.6rem;font-family:'Shippori Mincho B1',serif;
+    box-shadow:0 0 0 3px var(--gold);
+  }
+  .site-kana{margin:0;font-size:.7rem;letter-spacing:.25em;color:var(--gold);}
+  .site-name{margin:3px 0 6px;font-size:1.6rem;font-weight:800;font-family:'Shippori Mincho B1',serif;letter-spacing:.04em;}
+  .site-tagline{margin:0;font-size:.85rem;color:#d8cfc0;}
+  .breadcrumb{max-width:900px;margin:0 auto;padding:8px 20px;font-size:.78rem;color:#c9a227;border-top:1px solid #3a3a3a;background:#000;}
+  main{max-width:900px;margin:0 auto;padding:28px 20px 60px;}
+  article{background:var(--card);border:1px solid var(--border);border-top:5px solid var(--primary);padding:32px clamp(18px,4vw,44px);box-shadow:0 4px 20px rgba(0,0,0,.1);}
+  .doc-toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;border-bottom:3px solid var(--ink);padding-bottom:16px;margin-bottom:24px;}
+  .doc-title{margin:0;font-size:1.3rem;color:var(--ink);font-family:'Shippori Mincho B1',serif;}
+  .doc-sub{display:block;font-size:.8rem;font-weight:400;color:var(--muted);margin-top:4px;}
+  .copy-btn{background:var(--primary);color:#fff;border:none;border-radius:2px;padding:9px 20px;font-size:.85rem;font-family:inherit;font-weight:700;cursor:pointer;white-space:nowrap;letter-spacing:.05em;}
+  .copy-btn:hover{background:var(--primary-dark);}
+  .notice{background:#fbfaf3;border:1px solid #e8e2c0;color:#6b5f2a;font-size:.8rem;padding:10px 14px;border-radius:4px;margin-bottom:26px;}
+  h2{font-size:1.1rem;color:var(--ink);border-left:6px solid var(--primary);padding-left:12px;margin:34px 0 14px;font-family:'Shippori Mincho B1',serif;}
+  h2:first-of-type{margin-top:0;}
+  p{margin:0 0 14px;}
+  ol,ul{padding-left:1.4em;margin:0 0 16px;}
+  li{margin-bottom:10px;}
+  li strong{color:var(--primary);}
+  table{width:100%;border-collapse:collapse;margin:8px 0 20px;font-size:.92rem;}
+  th,td{border:1px solid var(--border);padding:10px 12px;text-align:left;vertical-align:top;}
+  th{background:var(--ink);color:var(--gold);width:26%;font-weight:700;}
+  tr:nth-child(even) td{background:#f7f5f0;}
+  .sign{margin-top:34px;padding-top:18px;border-top:1px solid var(--border);color:var(--muted);font-size:.9rem;text-align:right;}
+  footer{text-align:center;color:#d8cfc0;font-size:.78rem;padding:22px 20px;background:var(--ink);}
+</style>
+</head>
+<body>
+<div class="demo-badge">⚠ 本ページは研修用に作成された架空の自治体資料です（魁県魁市は実在しません）</div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="emblem">魁</div>
+    <div>
+      <p class="site-kana">さきがけし　きょういくいいんかい</p>
+      <h1 class="site-name">魁市教育委員会</h1>
+      <p class="site-tagline">剛毅朴訥にして質実剛健、不撓不屈の精神を持つ人材の育成</p>
+    </div>
+  </div>
+  <nav class="breadcrumb">魁市教育委員会トップ ＞ 教育方針</nav>
+</header>
+
+<main>
+  <article>
+    <div class="doc-toolbar">
+      <h2 class="doc-title" style="border:none;padding:0;margin:0;">教育方針
+        <span class="doc-sub">令和8年度</span>
+      </h2>
+      <button class="copy-btn" id="copyBtn">📋 本文をコピー</button>
+    </div>
+
+    <div class="notice">※本資料は研修用の架空の自治体資料です。魁県魁市は実在しません。</div>
+
+    <div id="copyTarget">
+      <h2>1　基本理念</h2>
+      <p>魁市教育委員会は、「剛毅朴訥にして質実剛健、不撓不屈の精神を持つ人材の育成」を基本理念とする。<br>
+      本市は、教育長・江田島平八の強いリーダーシップのもと、小中学校における教育を「人間としての根性を叩き直す場」と位置づけている。</p>
+      <p>デジタル機器や生成AIの導入が進む現代において、本市は「いかなる最新技術であっても、それを使用する人間の精神力が脆弱であっては無価値である」と考え、テクノロジーを「己を限界まで鍛え上げるための試練」として活用する独自の推進方針を掲げる。</p>
+
+      <h2>2　育てたい児童・生徒像</h2>
+      <ol>
+        <li><strong>剛毅朴訥にして、自らの信念を貫き通す子</strong><br>AIの提案や他者の意見に惑わされず、自らの頭で考え抜き、決定した道を突き進む。</li>
+        <li><strong>不撓不屈の精神で、いかなる試練も乗り越える子</strong><br>生成AIのエラーやネットワークの切断といった逆境に直面しても、決してへこたれず、力技で解決策を見出す。</li>
+        <li><strong>言葉ではなく、背中と行動で語る子</strong><br>安易な要約や美辞麗句に頼らず、自らの汗と涙が染み込んだ行動をもって学びを証明する。</li>
+        <li><strong>仲間と固い絆で結ばれ、共に死線を越える子</strong><br>切磋琢磨し合うライバルでありながら、危機に際しては互いに命を預け合える強固な友情を育む。</li>
+      </ol>
+
+      <h2>3　デジタル機器・生成AIの利用方針</h2>
+      <ul>
+        <li>令和8年度より、市内全校に生成AI端末を配備するが、端末は「文武両道の修行具」として扱う。</li>
+        <li>生成AI（Gemini等）のアカウント名は全員「塾生〇〇」とし、AIに対する甘え（答えを丸写しする等）は一切厳禁とする。</li>
+        <li>AIの利用は「果たし合い（対話）」と位置づけ、AIが出す難問やエラーに対して、己の知恵と根性で勝利（最適な回答の出力）を勝ち取らなければならない。</li>
+        <li>校務においては、指導案作成をAIで半減させた時間を利用し、教職員は「ふんどし一丁での素振り」や「大鐘音による気合入れ」等の精神修行に充てるものとする。</li>
+      </ul>
+
+      <h2>4　魁市授業スタンダード</h2>
+      <p>魁市が全校共通で目指す授業の姿を、以下の4点に整理する。</p>
+      <table>
+        <tr><th>観点</th><th>スタンダードの内容</th></tr>
+        <tr><td>① 導入・気合</td><td>授業開始時に「魁市塾訓」を大鐘音（大声）で唱和し、全員で精神を統一する</td></tr>
+        <tr><td>② 入力・鍛錬</td><td>デジタル端末へのキーボード入力は、指先および精神の鍛錬として「指立て伏せ」の姿勢で行う</td></tr>
+        <tr><td>③ 直進行軍</td><td>授業における探究活動は、いかなる障害物（壁や川）があろうとも、迂回せず直進して突き破る精神で行う</td></tr>
+        <tr><td>④ 振り返り</td><td>毎時間の学習成果は、血と汗と涙でノートに刻み込み、教官による厳しい検閲（合格するまで帰宅不可）を受ける</td></tr>
+      </table>
+
+      <h2>5　数値目標（令和8年度末）</h2>
+      <ul>
+        <li>生成AIとの「対話（果たし合い）」でAIを論破し、最適な回答を引き出せる児童生徒の割合：100％</li>
+        <li>授業中に気合の入った大声（大鐘音）を出せる児童生徒の割合：100％</li>
+        <li>「我が子の根性が叩き直された」と回答する保護者の割合：95％以上（学校評価アンケート）</li>
+      </ul>
+
+      <div class="sign">魁市教育委員会<br>教育長　江田島平八</div>
+    </div>
+  </article>
+</main>
+
+<footer>© 令和8年度 魁市教育委員会（本ページは研修用の架空資料です）</footer>
+
+<script>
+document.getElementById('copyBtn').addEventListener('click', function(){
+  const btn = this;
+  const text = document.getElementById('copyTarget').innerText;
+  navigator.clipboard.writeText(text).then(function(){
+    btn.textContent = '✅ コピーしました';
+    setTimeout(function(){ btn.textContent = '📋 本文をコピー'; }, 2000);
+  }).catch(function(){
+    alert('コピーに失敗しました。お手数ですが本文を選択してコピーしてください。');
+  });
+});
+</script>
+</body>
+</html>

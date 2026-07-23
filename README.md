@@ -27,14 +27,16 @@
 -  <a href="https://www.amazon.co.jp/stores/%E5%89%8D%E5%A4%9A-%E6%98%8C%E9%A1%95/author/B09RGNX3XZ?ref=sr_ntt_srch_lnk_1&qid=1783488335&sr=8-1&shoppingPortalEnabled=true" target="_blank">前多昌顕の著書一覧（Amazon著者ページ）</a>
 
 #### ✍️ 演習用テキスト資料
--  <a href="./戯画市の教育方針.md" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>
--  <a href="./戯画市立戯画小学校_学校経営方針.md" target="_blank">戯画市立戯画小学校 学校経営方針（演習用・架空の資料）</a>
--  <a href="./穴炉愚市の教育方針.md" target="_blank">穴炉愚市の教育方針（演習用・架空の資料）</a>
--  <a href="./穴炉愚市立穴炉愚小学校_学校経営方針.md" target="_blank">穴炉愚市立穴炉愚小学校 学校経営方針（演習用・架空の資料）</a>
--  <a href="./魁市の教育方針.md" target="_blank">魁市の教育方針（演習用・架空の資料）</a>
--  <a href="./魁市立魁小学校_学校経営方針.md" target="_blank">魁市立魁小学校 学校経営方針（演習用・架空の資料）</a>
--  <a href="./擬野流市の教育方針.md" target="_blank">擬野流市の教育方針（演習用・架空の資料）</a>
--  <a href="./擬野流市立擬野流小学校_学校経営方針.md" target="_blank">擬野流市立擬野流小学校 学校経営方針（演習用・架空の資料）</a>
+架空の自治体・学校の公式サイト風ページです。ページ内の「📋 本文をコピー」ボタンでテキストをそのままコピーできます（Markdown原文も併記）。
+
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/戯画市の教育方針.html" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>　<small><a href="./戯画市の教育方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/戯画市立戯画小学校_学校経営方針.html" target="_blank">戯画市立戯画小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./戯画市立戯画小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/穴炉愚市の教育方針.html" target="_blank">穴炉愚市の教育方針（演習用・架空の資料）</a>　<small><a href="./穴炉愚市の教育方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/穴炉愚市立穴炉愚小学校_学校経営方針.html" target="_blank">穴炉愚市立穴炉愚小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./穴炉愚市立穴炉愚小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/魁市の教育方針.html" target="_blank">魁市の教育方針（演習用・架空の資料）</a>　<small><a href="./魁市の教育方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/魁市立魁小学校_学校経営方針.html" target="_blank">魁市立魁小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./魁市立魁小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/擬野流市の教育方針.html" target="_blank">擬野流市の教育方針（演習用・架空の資料）</a>　<small><a href="./擬野流市の教育方針.md" target="_blank">[Markdown原文]</a></small>
+-  <a href="https://htmlpreview.github.io/?https://github.com/JohnnyMaeta/saitama20260725/blob/main/擬野流市立擬野流小学校_学校経営方針.html" target="_blank">擬野流市立擬野流小学校 学校経営方針（演習用・架空の資料）</a>　<small><a href="./擬野流市立擬野流小学校_学校経営方針.md" target="_blank">[Markdown原文]</a></small>
 
 #### 📺 解説動画
 
