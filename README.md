@@ -43,6 +43,7 @@
 -  <a href="https://youtu.be/9XHhJMjaMog" target="_blank">【動画】指導案・評価の爆速作成（YouTube）<br><img src="https://img.youtube.com/vi/9XHhJMjaMog/mqdefault.jpg" alt="【動画】指導案・評価の爆速作成" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/eNU-hdRT15k" target="_blank">【動画】評価基準のGoogleフォーム変換（YouTube）<br><img src="https://img.youtube.com/vi/eNU-hdRT15k/mqdefault.jpg" alt="【動画】評価基準のGoogleフォーム変換" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/8sZS3oCD6t4" target="_blank">【動画】Google Workspace Studioでフォームを自動分析（YouTube）<br><img src="https://img.youtube.com/vi/8sZS3oCD6t4/mqdefault.jpg" alt="【動画】Google Workspace Studioでフォームを自動分析" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
+-  <a href="https://youtu.be/kbwSA1hWskw" target="_blank">【動画】毎日の振り返り分析を完全自動化！Geminiとドキュメントを繋ぐ5ステップ（YouTube）<br><img src="https://img.youtube.com/vi/kbwSA1hWskw/mqdefault.jpg" alt="【動画】毎日の振り返り分析を完全自動化！Geminiとドキュメントを繋ぐ5ステップ" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 
 ---
 
