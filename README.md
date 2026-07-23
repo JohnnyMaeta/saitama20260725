@@ -45,9 +45,3 @@
 -  <a href="https://youtu.be/8sZS3oCD6t4" target="_blank">【動画】Google Workspace Studioでフォームを自動分析（YouTube）<br><img src="https://img.youtube.com/vi/8sZS3oCD6t4/mqdefault.jpg" alt="【動画】Google Workspace Studioでフォームを自動分析" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/kbwSA1hWskw" target="_blank">【動画】毎日の振り返り分析を完全自動化！Geminiとドキュメントを繋ぐ5ステップ（YouTube）<br><img src="https://img.youtube.com/vi/kbwSA1hWskw/mqdefault.jpg" alt="【動画】毎日の振り返り分析を完全自動化！Geminiとドキュメントを繋ぐ5ステップ" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/_vmQsKdcidk" target="_blank">【動画】初めてでも3分でできる！手書きの振り返り画像を自動でスプレッドシートにデータ集計するフロー（YouTube）<br><img src="https://img.youtube.com/vi/_vmQsKdcidk/mqdefault.jpg" alt="【動画】初めてでも3分でできる！手書きの振り返り画像を自動でスプレッドシートにデータ集計するフロー" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
-
----
-
-## 💡 本日の重要ポイント
-- **「チート」ではなく「コーチング」**: AIとの「対話」を通じて生徒の思考を深める方法を探ります。
-- **一気通貫の設計**: 前半に作った「指導案」を、後半の「伴走Gem」の脳（指示文）としてそのまま活用します。
