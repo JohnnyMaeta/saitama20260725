@@ -1,4 +1,4 @@
-# AIと伴走する授業デザイン〜Gemini＆NotebookLMで1単元を創り上げるワークショップ
+# AIと伴走する授業デザイン〜Gemini＆Gemini Notebookで1単元を創り上げるワークショップ
 ## 令和8年7月25日（土）
 
 - 指導要領PDFの読み込みと授業プラン生成
@@ -15,7 +15,7 @@
 ### 1. メインツール
 
 - <a href="https://gemini.google.com/" target="_blank">Gemini (Google AI)</a>
-- <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
+- <a href="https://notebooklm.google.com/" target="_blank">Gemini Notebook</a>
 - <a href="https://script.google.com/macros/s/AKfycbx9ckesaH03gAdnhxVDtIAZHbSB_7l2RPGNuJ2EQ6AgahELB9wsu03nAboq8yFrEnSgNw/exec" target="_blank">スーパー記録くん</a>
 - <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
 
