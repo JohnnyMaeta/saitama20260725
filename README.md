@@ -25,6 +25,7 @@
 #### 📄 研修共通資料・リンク
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387014.htm" target="_blank">小学校学習指導要領</a>
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
+-  <a href="https://www.mext.go.jp/a_menu/shotou/seitoshidou/1404008_00001.htm" target="_blank">生徒指導提要</a>
 -  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
 -  本日の要約ファイル：<a href="https://docs.google.com/document/d/10fjeIuD0YWUZMhY70MlTz_99LedEiguDoZK6mKgPAPM/edit?usp=sharing" target="_blank">埼玉会場</a> / <a href="https://docs.google.com/document/d/1BF4VHGVOB_DLdG4p9pymYYu7LhwdqOvphSxJkb0FetM/edit?usp=sharing" target="_blank">川越会場</a>
 -  <a href="https://www.amazon.co.jp/stores/%E5%89%8D%E5%A4%9A-%E6%98%8C%E9%A1%95/author/B09RGNX3XZ?ref=sr_ntt_srch_lnk_1&qid=1783488335&sr=8-1&shoppingPortalEnabled=true" target="_blank">前多昌顕の著書一覧（Amazon著者ページ）</a>
