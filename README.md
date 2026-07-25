@@ -18,6 +18,7 @@
 - <a href="https://notebooklm.google.com/" target="_blank">Gemini Notebook</a>
 - <a href="https://script.google.com/macros/s/AKfycbx9ckesaH03gAdnhxVDtIAZHbSB_7l2RPGNuJ2EQ6AgahELB9wsu03nAboq8yFrEnSgNw/exec" target="_blank">スーパー記録くん</a>
 - <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
+- <a href="https://script.google.com/macros/s/AKfycbyiV2IEOdW90UFjD3J4MM6XR8FZfJU65Q877ry_xmv8FDhiLVnKMU7STT_kIicQEMQxMQ/exec" target="_blank">アカウント貸与ページ</a>
 
 
 ### 2. 資料・リソース
